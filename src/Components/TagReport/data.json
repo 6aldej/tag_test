@@ -1,0 +1,1017 @@
+{
+  "data": {
+    "15 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "16 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": false
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "17 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "18 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "19 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "20 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+
+    "21 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "22 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "23 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "24 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ],
+    "25 мая": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Терехов Илья Германович",
+        "active": true
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Волков Матвей Игоревич",
+        "active": true
+      },
+      {
+        "id": 3,
+        "userId": 3,
+        "name": "Комаров Степан Данилович",
+        "active": false
+      },
+      {
+        "id": 4,
+        "userId": 4,
+        "name": "Рогов Александр Кириллович",
+        "active": true
+      },
+      {
+        "id": 5,
+        "userId": 5,
+        "name": "Михеев Степан Вадимович",
+        "active": true
+      },
+      {
+        "id": 6,
+        "userId": 6,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 7,
+        "userId": 7,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 8,
+        "userId": 8,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 9,
+        "userId": 9,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 10,
+        "userId": 10,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 11,
+        "userId": 11,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 12,
+        "userId": 12,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 13,
+        "userId": 13,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 14,
+        "userId": 14,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      },
+      {
+        "id": 15,
+        "userId": 15,
+        "name": "Гришин Артём Робертович",
+        "active": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+.board_wrapper {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.board_wrapper > div {
+  width: 50%;
+}
+
+.table_filter {
+  padding: 10px;
+}
+
+.table_filter:first-child {
+  border-right: 2px solid #c7c9ca;
+}
+
+.radio_inputs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.radio_inputs label {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.board_info p {
+  margin: 0;
+}
+
+.board_info span {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.button_reset_counter {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.button_reset_counter:hover {
+  background: #a7a7a798;
+}

@@ -1,0 +1,28 @@
+.report_wrapper {
+  position: relative;
+  overflow: auto;
+}
+
+.button_close_board {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  padding: 5px;
+  color: #b30000;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #00000000;
+  border: 0px;
+  cursor: pointer;
+}
+
+.button_close_board:hover {
+  color: #7d0000;
+}
+
+.report_wrapper_main {
+  box-sizing: border-box;
+  height: 100%;
+  margin-right: 30px;
+  padding: 20px 0px 20px 20px;
+}
